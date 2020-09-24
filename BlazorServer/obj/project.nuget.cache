@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A37qnkmd/eZzd6e2TuMmFy6rx+LE6qOE1tiyojWbmiiU7cSol84xUlCqIGShAJCxWvFTH/9SBfm8q/1CsSwDUQ==",
+  "success": true,
+  "projectFilePath": "D:\\_Blazor\\BlazorLinuxTest\\BlazorServer\\BlazorServer\\BlazorServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ravie\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
